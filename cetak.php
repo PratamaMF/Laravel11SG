@@ -35,7 +35,7 @@ require 'function.php';
                 
                         ?>
                         <br><br>
-                        <h4 class="text-center">.: -  OISHI == COFFEE  - :.</h4>
+                        <h4 class="text-center">.: -  OISHI =============== COFFEE  - :.</h4>
                         <h4 class="text-center">========================</h4>
                         <br><br><br>
                         <p>
