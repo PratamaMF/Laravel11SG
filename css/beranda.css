@@ -1,0 +1,21 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fs-3{
+    margin-top:15px !important;
+}
+.carousel {
+    width: 95%;
+    margin-top: 7px;
+    margin-bottom: 25px; 
+}
+
+.nav a:hover, a:focus {
+    background-color: grey !important;
+}
+
+.fas{
+    /* float: right; */
+    background-color: aquamarine !important;
+}
